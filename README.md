@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prince_imo_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_imo_45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/prince-singh-85872a257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prince-singh-85872a257" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prince-singh-85872a257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prince-singh-85872a257" height="30" width="40" /></a>
 <a href="https://instagram.com/prince_imo_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_imo_45" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prince_imo_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince_imo_45" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/imprincebk67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imprincebk67" height="30" width="40" /></a>
