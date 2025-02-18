@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/prince_imo_45" target="blank"><img src="https://img.shields.io/twitter/follow/prince_imo_45?logo=twitter&style=for-the-badge" alt="prince_imo_45" /></a> </p>
 
-- 🔭 I’m currently working on **Bailys**
-
 - 🌱 I’m currently learning **Backend Development , DSA**
 
 - 👯 I’m looking to collaborate on **Github**
